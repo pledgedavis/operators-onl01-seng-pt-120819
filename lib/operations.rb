@@ -5,7 +5,7 @@ if speed >= 60
 elsif speed <= 40 
   true
 else speed != 50
-  false
+  true
  end
 end
 
