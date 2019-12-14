@@ -4,7 +4,7 @@ if speed >= unsafe
   "true"
 else 
   puts "false"
-  
+ end
 end
 
 
